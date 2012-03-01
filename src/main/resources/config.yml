@@ -1,0 +1,10 @@
+playeronly: false
+nodamagetimeout: 3000
+useredtorch: false
+usecmd: false
+nodamage: true
+boostminecarts: true
+boosts:
+- 41,75,0
+- 42,50,0
+- 49,120,40

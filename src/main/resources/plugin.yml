@@ -1,0 +1,7 @@
+name: Trampolin
+version: 0.6
+main: com.bukkit.tm.Trampolin.Trampolin
+commands:
+  trampolin:
+    description: set a blocks values
+    usage: "Usage: '/trampolin blockid boost verticalboost'"
